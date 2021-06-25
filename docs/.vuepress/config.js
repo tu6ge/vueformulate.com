@@ -9,6 +9,7 @@ module.exports = ctx => ({
     ['script', { src: 'https://polyfill.io/v3/polyfill.min.js?features=es2015%2CFunction.name' }]
   ],
   port: 8123,
+  base: '/vueformulate.com/',
   locales:{
     '/': {
       lang: 'en-US', // 将会被设置为 <html> 的 lang 属性
