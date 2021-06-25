@@ -1,7 +1,8 @@
 node_modules
 /docs/dist
+/public
 report.*.json
 .yarn-error.log
 .DS_Store
-/public
+
 .vercel
