@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[64],{978:function(e,t,a){"use strict";a.r(t);var n={},r=a(19),s=Object(r.a)(n,(function(){var e=this.$createElement;return(this._self._c||e)("FormulateInput",{attrs:{type:"text",label:"What is your username",error:"That username is already taken"}})}),[],!1,null,null,null);t.default=s.exports}}]);

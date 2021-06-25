@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[110],{1011:function(t,e,n){"use strict";n.r(e);var o={},s=n(19),c=Object(s.a)(o,(function(){var t=this.$createElement;return(this._self._c||t)("FormulateForm",{attrs:{schema:[{component:"img",src:"/logo.svg",style:"width: 50px;"},{component:"Badge",text:"2.4.0"}]}})}),[],!1,null,null,null);e.default=c.exports}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[126],{1033:function(t,e,n){"use strict";n.r(e);var a={},o=n(19),l=Object(o.a)(a,(function(){var t=this.$createElement;return(this._self._c||t)("FormulateInput",{attrs:{type:"text",name:"rhymes",label:"What rhymes with toad?",validation:"ends_with:oad,ode",autocomplete:"no"}})}),[],!1,null,null,null);e.default=l.exports}}]);
