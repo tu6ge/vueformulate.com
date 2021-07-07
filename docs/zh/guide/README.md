@@ -81,7 +81,7 @@ Vue Formulate 最简单的实现就是输出一个 `FormulateInput` 没有额外
 
 <demo-2-validation />
 
-在 [验证器文档页面](/zh/guide/validation) 上阅读更多信息
+在 [验证器文档页面](/vueformulate.com/zh/guide/validation) 上阅读更多信息
 
 <div id="model-binding"></div>
 
@@ -176,7 +176,7 @@ Certain types of inputs set an `array` of values on their model.
 :::tip 阅读更多...
 模型绑定并不是您对 `FormulateInput` 元素所能做的全部！还有很多额外的配置选项。
 
-在 [表单域页面](/zh/guide/inputs) 上阅读更多内容→
+在 [表单域页面](/vueformulate.com/zh/guide/inputs) 上阅读更多内容→
 :::
 
 ### 表单绑定
@@ -210,7 +210,7 @@ Certain types of inputs set an `array` of values on their model.
 :::tip 阅读更多...
 这不是所有内容……该 `FormulateForm` 元素还有其他几个非常有价值的功能，例如表单提交、组验证和文件上传。
 
-阅读更多信息 [使用表单 →](/zh/guide/forms)
+阅读更多信息 [使用表单 →](/vueformulate.com/zh/guide/forms)
 :::
 
 
@@ -219,7 +219,7 @@ Certain types of inputs set an `array` of values on their model.
 虽然 Vue Formulate 是一个强大的工具，用于构建、验证和处理表单上的错误——但这个包并不打算做这些事情：
 
   1. 这不是 UI 框架或布局工具。想要彼此相邻的输入吗？凉爽的！将一些输入包裹在一个 `<div>`。这个包假设你仍然负责你的表单布局。
-  2. 这个包是 BYOB——带上你自己的后端。Vue Formulate 并不关心您选择的后端（最接近关心的是使用 [文件输入](/zh/guide/inputs/types/file/) 时）
+  2. 这个包是 BYOB——带上你自己的后端。Vue Formulate 并不关心您选择的后端（最接近关心的是使用 [文件域](/zh/guide/inputs/types/file/) 时）
 
 ## 为什么不 ... ?
 
@@ -245,4 +245,4 @@ VeeValidate 是 Vue 表单验证的另一个很好的选择，这就是它的主
 
 ### vue-form-generator
 
-从 JSON 生成表单很棒，也是 Vue Formate 的一个子功能。由于 Vue Formulate 使用单个元素从 JSON 字符串或 JavaScript 模块创建任何输入类型的表单生成，就像使用v-for指令一样简单。 [查看文档](/zh/guide/generating-forms/)。
+从 JSON 生成表单很棒，也是 Vue Formate 的一个子功能。由于 Vue Formulate 使用单个元素从 JSON 字符串或 JavaScript 模块创建任何输入类型的表单生成，就像使用v-for指令一样简单。 [查看文档](/zh/guide/forms/generating-forms/)。
