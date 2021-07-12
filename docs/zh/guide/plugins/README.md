@@ -14,6 +14,7 @@
 - [`vue-formulate-extended`](https://www.npmjs.com/package/vue-formulate-extended) — 扩展并向 Vue Formulate 中添加各种功能
 - [`vue-formulate-star-rating`](https://www.npmjs.com/package/vue-formulate-star-rating) — Vue Formulate 对 [vue-star-rating](https://www.npmjs.com/package/vue-star-rating) 的支持
 - [`vue-formulate-datepicker`](https://www.npmjs.com/package/vue-formulate-datepicker) — Vue Formulate 对 [@sum.cumo/vue-datepicker](https://www.npmjs.com/package/@sum.cumo/vue-datepicker) 的支持
+- [`formulate-el-ui`](https://github.com/tu6ge/formulate-el-ui) -- Vue Formulate 对 [Element UI](https://element.eleme.cn/#/zh-CN) 的支持
 
 ## 创建一个新插件
 
